@@ -1,3 +1,6 @@
+
+**DISCLAIMER** - This is a fork done for own purposes to keep using moder Python features. If you want folow the upstream, please go to original code and support it.
+
 # PyArtifactory
 
 [![GitHub Actions workflow](https://github.com/heliocastro/python-artifactory/workflows/Check%20code/badge.svg)](https://github.com/heliocastro/python-artifactory/actions)
